@@ -26,7 +26,7 @@ Este projeto foi desenvolvido como parte do curso de **JavaScript** do professor
 ---
 
 ## Demonstração
-![Demonstração](/demonstracao.jpg)
+![Demonstração](demonstracao.png)
 
 ## 🚀 Como executar
 
